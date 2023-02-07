@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning *NodeJS ,HTML,CSS,Javascript*
 
-- 👨‍💻 All of my projects are available at [https://github.com/prernadave/prernadave.githubb.io]
+- 👨‍💻 All of my projects are available at [https://github.com/prernadave/prernadave.github.io]
 
 - 💬 Ask me about *NodeJS ,MongoDB,HTML,CSS,Javascript*
 
