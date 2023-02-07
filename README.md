@@ -18,6 +18,14 @@
 
 - ⚡ Fun fact *I am very dedicated*
 
+- ⭐ <a href="https://github.com/prernadave/prernadave.github.io">Click here to see my portfolio</a>
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prerna-dave-3765aa237/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=https://www.linkedin.com/in/prerna-dave-3765aa237/" height="30" width="40" /></a>
