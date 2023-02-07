@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact *I am very dedicated*
 
-- ⭐ <a href="https://github.com/prernadave/prernadave.github.io">Click here to see my portfolio</a>
+- ⭐ <a href="https://prernadave.github.io/">Click here to see my portfolio</a>
 
 
 
