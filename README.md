@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning *NodeJS ,HTML,CSS,Javascript*
 
-- 👨‍💻 All of my projects are available at [https://github.com/prernadave/prernadave.githubb.io.git]
+- 👨‍💻 All of my projects are available at [https://github.com/prernadave/prernadave.githubb.io]
 
 - 💬 Ask me about *NodeJS ,MongoDB,HTML,CSS,Javascript*
 
-- ⚡ Fun fact *I Am very dedicated*
+- ⚡ Fun fact *I am very dedicated*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
