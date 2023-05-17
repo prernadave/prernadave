@@ -2,23 +2,33 @@
 
 
 <h1 align="center">Hi👋 नमस्ते🙏 કેમ છો? I'm Prerna Dave</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳 </h3>
+<p align="center">
+ <em>
+ If you are looking for a software engineer who is passionate about building great products, then I encourage you to reach out to me. I would be happy to discuss my skills and experience with you.eager to learn new technologies. I am also a team player and I enjoy working with others to solve problems.</em></p>
 
+<div id="header" align="center">
+<img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" width="300"/>
+</div>
+
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prernadave&label=Profile%20views&color=0e75b6&style=flat" alt="prernadave" /> </p>
 
+<br> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prernadave" alt="prernadave" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *NodeJS ,HTML,CSS,Javascript*
+- 🌱 I’m currently learning *Full Stack Web Development* 
 
 - 💬 Ask me about *NodeJS ,MongoDB,HTML,CSS,Javascript*
 
-- ⚡ Fun fact *I am very dedicated*
+- ⚡ Fun fact *I just learned coding in 10 months and I have 1200+ hrs coding experience*
 
 - ⭐ <a href="https://prernadave.github.io/">Click here to see my portfolio</a>
 
+- 💌 how to reach me **prernadave3914@gmail.com**
 
+- 📄 Want to know more about me click here to see my **<a href="https://drive.google.com/file/d/11o1GIF9aJjQwj77oVIVkgrgb17PjJhD_/view?usp=share_link">Resume</a>**
 
 
 
@@ -38,8 +48,8 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" /> -->
 
 <br/>
 <br/>
