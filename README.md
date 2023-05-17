@@ -86,11 +86,10 @@
  -->
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prernadave&show_icons=true&locale=en&layout=compact" alt="prernadave" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernadave&show_icons=true&locale=en" alt="prernadave" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prernadave&" alt="prernadave" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prernadave&&theme=merko" alt="prerna" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernadave&show_icons=true&locale=en&theme=merko" alt="prernadave" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prernadave&show_icons=true&locale=en&layout=compact&theme=merko" alt="prernadave" /></p>
 
 
 <a href="https://google.com" align="center">
