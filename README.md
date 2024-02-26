@@ -4,10 +4,10 @@
 <h1 align="center">Hi👋 नमस्ते🙏 કેમ છો? I'm Prerna Dave</h1>
 <p align="center">
  <em>
- If you are looking for a software engineer who is passionate about building great products, then I encourage you to reach out to me. I would be happy to discuss my skills and experience with you.eager to learn new technologies. I am also a team player and I enjoy working with others to solve problems.</em></p>
+ If you are looking for a software engineer passionate about building great products, please reach out to me. I would be happy to discuss my skills and experience with you. eager to learn new technologies. I am also a team player and enjoy working with others to solve problems.</em></p>
 
 <div id="header" align="center">
-<img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" width="300"/>
+<img src="https://media.licdn.com/dms/image/C5612AQG26z63TvDh8A/article-cover_image-shrink_600_2000/0/1589415739648?e=2147483647&v=beta&t=T0_ykDX3WqpNmaHu9PQLZDqoTFt3_KtfEH0V7cZivgI" width="300"/>
 </div>
 
 <br>
@@ -22,13 +22,13 @@
 
 - 💬 Ask me about *NodeJS ,MongoDB,HTML,CSS,Javascript*
 
-- ⚡ Fun fact *I just learned coding in 10 months and I have 1200+ hrs coding experience*
+- ⚡ Fun fact *I just learned coding in 10 months and I have 1200+ hours of coding experience*
 
 - ⭐ <a href="https://prernadave.github.io/">Click here to see my portfolio</a>
 
 - 💌 how to reach me **prernadave3914@gmail.com**
 
-- 📄 Want to know more about me click here to see my **<a href="https://drive.google.com/file/d/11o1GIF9aJjQwj77oVIVkgrgb17PjJhD_/view?usp=share_link">Resume</a>**
+- 📄 Want to know more about me click here to see my **<a href="https://drive.google.com/file/d/11fUFbR14YboVVJuNtLbbdBYsDV1dtpv9/view?usp=sharing">Resume</a>**
 
 
 
